@@ -1,0 +1,8 @@
+{
+  "name": "LEVI AI V2.5.5",
+  "description": "Professional AI Image Editor & Visual Consistency Analyst v2.5.5. Features Custom Similarity & Locks System for Character, Product, and Background consistency.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
